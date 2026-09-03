@@ -1,28 +1,30 @@
 about:
-  description: The CLI for the Claude API
+  description:
+  |
+    The CLI for the Claude API
   license: MIT
   homepage: https://platform.claude.com/docs/en/api/sdks/cli
   head: a24f398
   archived: false
   latestVersion: v1.29.0
-  collectedAt: 2026-09-03T05:14:16Z
+  collectedAt: 2026-09-03T22:37:21Z
 timeline:
   created: 2026-01-23
   lastCommit: 2026-09-01
   lastRelease: 2026-09-01
 popularity:
-  star: 628
+  star: 629
   watcher: 26
-  fork: 102
+  fork: 103
   release: 42
-  contributor: 228
+  contributor: 229
   pullRequest: 41
   issue: 0
 language:
   Go: 1250472
   Shell: 16541
   PowerShell: 3318
-totalLine: 1270331
+totalBytes: 1270331
 recent:
   last30d:
     since: 2026-08-04
