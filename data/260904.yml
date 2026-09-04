@@ -7,7 +7,7 @@ about:
   head: 203ba69
   archived: false
   latestVersion: v1.30.0
-  collectedAt: 2026-09-04T20:09:58Z
+  collectedAt: 2026-09-04T20:34:17Z
 timeline:
   created: 2026-01-23
   lastCommit: 2026-09-03
@@ -83,7 +83,7 @@ total:
   commit: 320
 ---
 path: /home/runner/.x-repo/github.com/anthropics/anthropic-cli
-collectedAt: 2026-09-04T20:09:59Z
+collectedAt: 2026-09-04T20:34:18Z
 loc:
   Go:
     code: 44981
