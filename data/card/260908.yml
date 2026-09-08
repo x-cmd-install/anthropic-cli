@@ -5,7 +5,7 @@ about:
   head: d3dc65b
   archived: false
   latestVersion: "v1.31.0"
-  collectedAt: 2026-09-08T03:25:24Z
+  collectedAt: 2026-09-08T06:12:04Z
 timeline:
   created: 2026-01-23
   lastCommit: 2026-09-04
@@ -81,7 +81,7 @@ total:
   commit: 327
 ---
 path: /home/runner/.x-repo/github.com/anthropics/anthropic-cli
-collectedAt: 2026-09-08T03:25:25Z
+collectedAt: 2026-09-08T06:12:05Z
 loc:
   Go:
     code: 44980
