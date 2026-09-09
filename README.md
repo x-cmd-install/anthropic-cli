@@ -7,7 +7,7 @@ The CLI for the Claude API
 - **Latest release**: `v1.31.0` (2026-09-04)
 - **Last commit**: 2026-09-04
 - **License**: MIT
-- **Stars**: 637 · **Forks**: 105 · **Open issues**: 0 · **Contributors**: 22
+- **Stars**: 638 · **Forks**: 106 · **Open issues**: 0 · **Contributors**: 22
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/anthropic-cli> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T06:20:12Z._
+_Last regenerated: 2026-09-09T20:40:14Z._
