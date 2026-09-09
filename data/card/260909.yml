@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.31.0"
   latestRelease: "v1.31.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T06:20:07Z
+  collectedAt: 2026-09-09T20:40:09Z
 timeline:
   created: 2026-01-23
   lastCommit: 2026-09-04
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-09-04
   lastPrerelease: 
 popularity:
-  star: 637
+  star: 638
   watcher: 26
-  fork: 105
+  fork: 106
   release: 44
   contributor: 22
   pullRequest: 93
@@ -85,7 +85,7 @@ total:
   commit: 327
 ---
 path: /home/runner/.x-repo/github.com/anthropics/anthropic-cli
-collectedAt: 2026-09-09T06:20:08Z
+collectedAt: 2026-09-09T20:40:10Z
 loc:
   Go:
     code: 44980
