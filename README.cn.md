@@ -1,52 +1,52 @@
 # anthropic-cli
 
-[中文版本](./README.cn.md)
+[English version](./README.md)
 
 The CLI for the Claude API
 
-![anthropic-cli](https://repo.x-cmd.io/anthropic-cli.svg)
+![anthropic-cli](https://repo.x-cmd.io/anthropic-cli.svg?lang=zh)
 
-## Install
+## 安装
 
 ```sh
 x install anthropic-cli
 ```
 
-## Code insight
+## 代码规模
 
-Total: **52,430** lines of code across **279** files in the top 5 languages.
+合计: **52,430** 行代码（覆盖前 5 种语言、共 **279** 个文件）。
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
 | Go | 51,295 | 4,447 | 5,151 | 249 |
 | Yaml | 570 | 34 | 7 | 17 |
 | Bash | 303 | 46 | 78 | 11 |
 | PowerShell | 78 | 16 | 10 | 1 |
 | Json | 67 | 0 | 0 | 1 |
 
-## Source
+## 源代码
 
-- **Upstream**: <https://github.com/anthropics/anthropic-cli>
-- **Homepage**: <https://platform.claude.com/docs/en/api/sdks/cli>
-- **License**: MIT
+- **上游仓库**: <https://github.com/anthropics/anthropic-cli>
+- **官网**: <https://platform.claude.com/docs/en/api/sdks/cli>
+- **许可证**: MIT
 
-## Release
+## 发布
 
-- **Latest**: `v1.32.0` (2026-09-10)
-- **Last commit**: 2026-09-10
-- **Assets in release**: 25
+- **最新版本**: `v1.32.0` (2026-09-10)
+- **最近提交**: 2026-09-10
+- **Release 含资产**: 25 个
 
-## Popularity
+## 流行度
 
-- **Stars**: 639 · **Forks**: 107 · **Open issues**: 0 · **Contributors**: 23
+- **Star**: 639 · **Fork**: 107 · **开放 issue**: 0 · **贡献者**: 23
 
-## Totals (cumulative)
+## 累计统计
 
-- **Releases**: 45 · **Merged PRs**: 56 · **Open PRs**: 15 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 345
+- **发布数**: 45 · **已合并 PR**: 56 · **开放 PR**: 15 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 345
 
-## Recent activity
+## 最近活动
 
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 11 | 12 | 6 | 0 | 0 | 76 |
 | last60d | 2026-07-12 | 17 | 19 | 7 | 0 | 0 | 116 |
@@ -55,10 +55,10 @@ Total: **52,430** lines of code across **279** files in the top 5 languages.
 | 360d | 2025-09-15 | 45 | 56 | 15 | 0 | 0 | 337 |
 | last720d | 2024-09-20 | 45 | 56 | 15 | 0 | 0 | 345 |
 
-## Release assets
+## Release 资产
 
-| Asset | Size | Target |
-|-------|-----:|--------|
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
 | [ant_1.32.0_checksums.txt](https://github.com/anthropics/anthropic-cli/releases/download/v1.32.0/ant_1.32.0_checksums.txt) | 2.2 KiB | `other` |
 | [ant_1.32.0_linux_386.apk](https://github.com/anthropics/anthropic-cli/releases/download/v1.32.0/ant_1.32.0_linux_386.apk) | 8.9 MiB | `other` |
 | [ant_1.32.0_linux_386.deb](https://github.com/anthropics/anthropic-cli/releases/download/v1.32.0/ant_1.32.0_linux_386.deb) | 8.5 MiB | `other` |
@@ -85,13 +85,13 @@ Total: **52,430** lines of code across **279** files in the top 5 languages.
 | [ant_1.32.0_windows_amd64.zip](https://github.com/anthropics/anthropic-cli/releases/download/v1.32.0/ant_1.32.0_windows_amd64.zip) | 9.2 MiB | `native/win/x64` |
 | [ant_1.32.0_windows_arm64.zip](https://github.com/anthropics/anthropic-cli/releases/download/v1.32.0/ant_1.32.0_windows_arm64.zip) | 8.4 MiB | `native/win/arm64` |
 
-## Improve this data
+## 改进这些数据
 
-Install metadata for anthropic-cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `anthropic-cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+anthropic-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `anthropic-cli` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
 
-- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/anthropic-cli.yml> (or whichever path the index uses)
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/anthropic-cli.yml>（或索引实际使用的路径）
 
-The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:07:51Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:07:52Z._
