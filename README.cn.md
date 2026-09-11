@@ -38,7 +38,7 @@ x install anthropic-cli
 
 ## 流行度
 
-- **Star**: 640 · **Fork**: 108 · **开放 issue**: 0 · **贡献者**: 23
+- **Star**: 641 · **Fork**: 108 · **开放 issue**: 0 · **贡献者**: 23
 
 ## 累计统计
 
@@ -94,4 +94,4 @@ anthropic-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260911.yml` · 2026-09-11T06:12:00Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T18:46:33Z._
