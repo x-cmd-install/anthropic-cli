@@ -48,12 +48,12 @@ Total: **53,208** lines of code across **282** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 8 | 9 | 2 | 0 | 0 | 94 |
-| last60d | 2026-07-22 | 18 | 19 | 5 | 0 | 0 | 144 |
-| 90d | 2026-06-22 | 26 | 27 | 7 | 0 | 0 | 186 |
-| last180d | 2026-03-24 | 47 | 57 | 13 | 0 | 0 | 340 |
-| 360d | 2025-09-25 | 47 | 58 | 13 | 0 | 0 | 374 |
-| last720d | 2024-09-30 | 47 | 58 | 13 | 0 | 0 | 386 |
+| 30d | 2026-08-22 | 8 | 9 | 2 | 0 | 0 | 74 |
+| last60d | 2026-07-23 | 17 | 17 | 5 | 0 | 0 | 132 |
+| 90d | 2026-06-23 | 26 | 27 | 7 | 0 | 0 | 178 |
+| last180d | 2026-03-25 | 47 | 57 | 13 | 0 | 0 | 331 |
+| 360d | 2025-09-26 | 47 | 58 | 13 | 0 | 0 | 374 |
+| last720d | 2024-10-01 | 47 | 58 | 13 | 0 | 0 | 386 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for anthropic-cli lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T06:30:13Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T06:40:12Z._
