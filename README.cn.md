@@ -14,11 +14,11 @@ x install anthropic-cli
 
 ## 代码洞察
 
-合计: **53,278** 行代码（覆盖前 5 种语言、共 **282** 个文件）。
+合计: **64,852** 行代码（覆盖前 5 种语言、共 **360** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 52,116 | 4,512 | 5,198 | 251 |
+| Go | 63,690 | 4,581 | 6,137 | 329 |
 | Yaml | 595 | 34 | 7 | 18 |
 | Bash | 305 | 46 | 78 | 11 |
 | PowerShell | 78 | 16 | 10 | 1 |
@@ -32,58 +32,58 @@ x install anthropic-cli
 
 ## 发布
 
-- **最新版本**: `v1.36.0` (2026-09-28)
-- **最近提交**: 2026-09-28
+- **最新版本**: `v1.38.0` (2026-09-30)
+- **最近提交**: 2026-09-30
 - **Release 含资产**: 25 个
 
 ## 流行度
 
-- **Star**: 658 · **Fork**: 111 · **开放 issue**: 0 · **贡献者**: 24
+- **Star**: 659 · **Fork**: 111 · **开放 issue**: 0 · **贡献者**: 24
 
 ## 累计统计
 
-- **发布数**: 49 · **已合并 PR**: 60 · **开放 PR**: 16 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 422
+- **发布数**: 51 · **已合并 PR**: 62 · **开放 PR**: 16 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 450
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 8 | 9 | 4 | 0 | 0 | 88 |
-| last60d | 2026-08-01 | 17 | 19 | 8 | 0 | 0 | 162 |
-| 90d | 2026-07-02 | 23 | 24 | 10 | 0 | 0 | 192 |
-| last180d | 2026-04-03 | 49 | 59 | 16 | 0 | 0 | 345 |
-| 360d | 2025-10-05 | 49 | 60 | 16 | 0 | 0 | 406 |
-| last720d | 2024-10-10 | 49 | 60 | 16 | 0 | 0 | 422 |
+| 30d | 2026-09-01 | 10 | 11 | 4 | 0 | 0 | 112 |
+| last60d | 2026-08-02 | 19 | 21 | 8 | 0 | 0 | 186 |
+| 90d | 2026-07-03 | 24 | 26 | 10 | 0 | 0 | 216 |
+| last180d | 2026-04-04 | 51 | 61 | 16 | 0 | 0 | 369 |
+| 360d | 2025-10-06 | 51 | 62 | 16 | 0 | 0 | 430 |
+| last720d | 2024-10-11 | 51 | 62 | 16 | 0 | 0 | 450 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [ant_1.36.0_checksums.txt](https://github.com/anthropics/anthropic-cli/releases/download/v1.36.0/ant_1.36.0_checksums.txt) | 2.2 KiB | `other` |
-| [ant_1.36.0_linux_386.apk](https://github.com/anthropics/anthropic-cli/releases/download/v1.36.0/ant_1.36.0_linux_386.apk) | 9.1 MiB | `other` |
-| [ant_1.36.0_linux_386.deb](https://github.com/anthropics/anthropic-cli/releases/download/v1.36.0/ant_1.36.0_linux_386.deb) | 8.7 MiB | `other` |
-| [ant_1.36.0_linux_386.pkg.tar.zst](https://github.com/anthropics/anthropic-cli/releases/download/v1.36.0/ant_1.36.0_linux_386.pkg.tar.zst) | 8.3 MiB | `other` |
-| [ant_1.36.0_linux_386.rpm](https://github.com/anthropics/anthropic-cli/releases/download/v1.36.0/ant_1.36.0_linux_386.rpm) | 8.7 MiB | `other` |
-| [ant_1.36.0_linux_386.tar.gz](https://github.com/anthropics/anthropic-cli/releases/download/v1.36.0/ant_1.36.0_linux_386.tar.gz) | 8.7 MiB | `native/unknown` |
-| [ant_1.36.0_linux_amd64.apk](https://github.com/anthropics/anthropic-cli/releases/download/v1.36.0/ant_1.36.0_linux_amd64.apk) | 9.6 MiB | `native/linux/x64` |
-| [ant_1.36.0_linux_amd64.deb](https://github.com/anthropics/anthropic-cli/releases/download/v1.36.0/ant_1.36.0_linux_amd64.deb) | 9.2 MiB | `native/linux/x64` |
-| [ant_1.36.0_linux_amd64.pkg.tar.zst](https://github.com/anthropics/anthropic-cli/releases/download/v1.36.0/ant_1.36.0_linux_amd64.pkg.tar.zst) | 8.8 MiB | `native/linux/x64` |
-| [ant_1.36.0_linux_amd64.rpm](https://github.com/anthropics/anthropic-cli/releases/download/v1.36.0/ant_1.36.0_linux_amd64.rpm) | 9.2 MiB | `native/linux/x64` |
-| [ant_1.36.0_linux_amd64.tar.gz](https://github.com/anthropics/anthropic-cli/releases/download/v1.36.0/ant_1.36.0_linux_amd64.tar.gz) | 9.2 MiB | `native/linux/x64` |
-| [ant_1.36.0_linux_arm64.apk](https://github.com/anthropics/anthropic-cli/releases/download/v1.36.0/ant_1.36.0_linux_arm64.apk) | 8.8 MiB | `native/linux/arm64` |
-| [ant_1.36.0_linux_arm64.deb](https://github.com/anthropics/anthropic-cli/releases/download/v1.36.0/ant_1.36.0_linux_arm64.deb) | 8.5 MiB | `native/linux/arm64` |
-| [ant_1.36.0_linux_arm64.pkg.tar.zst](https://github.com/anthropics/anthropic-cli/releases/download/v1.36.0/ant_1.36.0_linux_arm64.pkg.tar.zst) | 8.2 MiB | `native/linux/arm64` |
-| [ant_1.36.0_linux_arm64.rpm](https://github.com/anthropics/anthropic-cli/releases/download/v1.36.0/ant_1.36.0_linux_arm64.rpm) | 8.5 MiB | `native/linux/arm64` |
-| [ant_1.36.0_linux_arm64.tar.gz](https://github.com/anthropics/anthropic-cli/releases/download/v1.36.0/ant_1.36.0_linux_arm64.tar.gz) | 8.5 MiB | `native/linux/arm64` |
-| [ant_1.36.0_linux_armv6.apk](https://github.com/anthropics/anthropic-cli/releases/download/v1.36.0/ant_1.36.0_linux_armv6.apk) | 8.9 MiB | `native/linux/arm` |
-| [ant_1.36.0_linux_armv6.deb](https://github.com/anthropics/anthropic-cli/releases/download/v1.36.0/ant_1.36.0_linux_armv6.deb) | 8.7 MiB | `native/linux/arm` |
-| [ant_1.36.0_linux_armv6.rpm](https://github.com/anthropics/anthropic-cli/releases/download/v1.36.0/ant_1.36.0_linux_armv6.rpm) | 8.6 MiB | `native/linux/arm` |
-| [ant_1.36.0_linux_armv6.tar.gz](https://github.com/anthropics/anthropic-cli/releases/download/v1.36.0/ant_1.36.0_linux_armv6.tar.gz) | 8.7 MiB | `native/linux/arm` |
-| [ant_1.36.0_macos_amd64.zip](https://github.com/anthropics/anthropic-cli/releases/download/v1.36.0/ant_1.36.0_macos_amd64.zip) | 9.6 MiB | `native/darwin/x64` |
-| [ant_1.36.0_macos_arm64.zip](https://github.com/anthropics/anthropic-cli/releases/download/v1.36.0/ant_1.36.0_macos_arm64.zip) | 9.0 MiB | `native/darwin/arm64` |
-| [ant_1.36.0_windows_386.zip](https://github.com/anthropics/anthropic-cli/releases/download/v1.36.0/ant_1.36.0_windows_386.zip) | 9.1 MiB | `native/win/x64` |
-| [ant_1.36.0_windows_amd64.zip](https://github.com/anthropics/anthropic-cli/releases/download/v1.36.0/ant_1.36.0_windows_amd64.zip) | 9.4 MiB | `native/win/x64` |
-| [ant_1.36.0_windows_arm64.zip](https://github.com/anthropics/anthropic-cli/releases/download/v1.36.0/ant_1.36.0_windows_arm64.zip) | 8.6 MiB | `native/win/arm64` |
+| [ant_1.38.0_checksums.txt](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_checksums.txt) | 2.2 KiB | `other` |
+| [ant_1.38.0_linux_386.apk](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_linux_386.apk) | 9.5 MiB | `other` |
+| [ant_1.38.0_linux_386.deb](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_linux_386.deb) | 9.2 MiB | `other` |
+| [ant_1.38.0_linux_386.pkg.tar.zst](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_linux_386.pkg.tar.zst) | 8.7 MiB | `other` |
+| [ant_1.38.0_linux_386.rpm](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_linux_386.rpm) | 9.2 MiB | `other` |
+| [ant_1.38.0_linux_386.tar.gz](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_linux_386.tar.gz) | 9.2 MiB | `native/unknown` |
+| [ant_1.38.0_linux_amd64.apk](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_linux_amd64.apk) | 10.1 MiB | `native/linux/x64` |
+| [ant_1.38.0_linux_amd64.deb](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_linux_amd64.deb) | 9.7 MiB | `native/linux/x64` |
+| [ant_1.38.0_linux_amd64.pkg.tar.zst](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_linux_amd64.pkg.tar.zst) | 9.3 MiB | `native/linux/x64` |
+| [ant_1.38.0_linux_amd64.rpm](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_linux_amd64.rpm) | 9.7 MiB | `native/linux/x64` |
+| [ant_1.38.0_linux_amd64.tar.gz](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_linux_amd64.tar.gz) | 9.7 MiB | `native/linux/x64` |
+| [ant_1.38.0_linux_arm64.apk](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_linux_arm64.apk) | 9.3 MiB | `native/linux/arm64` |
+| [ant_1.38.0_linux_arm64.deb](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_linux_arm64.deb) | 9.0 MiB | `native/linux/arm64` |
+| [ant_1.38.0_linux_arm64.pkg.tar.zst](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_linux_arm64.pkg.tar.zst) | 8.6 MiB | `native/linux/arm64` |
+| [ant_1.38.0_linux_arm64.rpm](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_linux_arm64.rpm) | 9.0 MiB | `native/linux/arm64` |
+| [ant_1.38.0_linux_arm64.tar.gz](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_linux_arm64.tar.gz) | 9.0 MiB | `native/linux/arm64` |
+| [ant_1.38.0_linux_armv6.apk](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_linux_armv6.apk) | 9.5 MiB | `native/linux/arm` |
+| [ant_1.38.0_linux_armv6.deb](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_linux_armv6.deb) | 9.1 MiB | `native/linux/arm` |
+| [ant_1.38.0_linux_armv6.rpm](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_linux_armv6.rpm) | 9.1 MiB | `native/linux/arm` |
+| [ant_1.38.0_linux_armv6.tar.gz](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_linux_armv6.tar.gz) | 9.1 MiB | `native/linux/arm` |
+| [ant_1.38.0_macos_amd64.zip](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_macos_amd64.zip) | 10.2 MiB | `native/darwin/x64` |
+| [ant_1.38.0_macos_arm64.zip](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_macos_arm64.zip) | 9.5 MiB | `native/darwin/arm64` |
+| [ant_1.38.0_windows_386.zip](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_windows_386.zip) | 9.5 MiB | `native/win/x64` |
+| [ant_1.38.0_windows_amd64.zip](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_windows_amd64.zip) | 10.0 MiB | `native/win/x64` |
+| [ant_1.38.0_windows_arm64.zip](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_windows_arm64.zip) | 9.1 MiB | `native/win/arm64` |
 
 ## 改进这些数据
 
@@ -94,4 +94,4 @@ anthropic-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260930.yml` · 2026-09-30T06:49:56Z._
+_数据快照: `data/card/261001.yml` · 2026-10-01T07:15:33Z._
