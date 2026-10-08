@@ -14,15 +14,15 @@ x install anthropic-cli
 
 ## Code insight
 
-Total: **64,852** lines of code across **360** files in the top 5 languages.
+Total: **65,764** lines of code across **364** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 63,690 | 4,581 | 6,137 | 329 |
+| Go | 64,664 | 4,694 | 6,242 | 333 |
 | Yaml | 595 | 34 | 7 | 18 |
-| Bash | 305 | 46 | 78 | 11 |
+| Bash | 310 | 47 | 78 | 11 |
 | PowerShell | 78 | 16 | 10 | 1 |
-| Json | 67 | 0 | 0 | 1 |
+| Sh | 46 | 1 | 12 | 1 |
 
 ## Source
 
@@ -32,58 +32,58 @@ Total: **64,852** lines of code across **360** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.38.0` (2026-09-30)
-- **Last commit**: 2026-09-30
+- **Latest**: `v1.39.1` (2026-10-08)
+- **Last commit**: 2026-10-08
 - **Assets in release**: 25
 
 ## Popularity
 
-- **Stars**: 668 · **Forks**: 111 · **Open issues**: 0 · **Contributors**: 24
+- **Stars**: 671 · **Forks**: 111 · **Open issues**: 0 · **Contributors**: 24
 
 ## Totals (cumulative)
 
-- **Releases**: 51 · **Merged PRs**: 62 · **Open PRs**: 26 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 450
+- **Releases**: 53 · **Merged PRs**: 63 · **Open PRs**: 26 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 481
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 7 | 9 | 14 | 0 | 0 | 91 |
-| last60d | 2026-08-08 | 17 | 18 | 18 | 0 | 0 | 175 |
-| 90d | 2026-07-09 | 24 | 25 | 18 | 0 | 0 | 209 |
-| last180d | 2026-04-10 | 49 | 58 | 25 | 0 | 0 | 350 |
-| 360d | 2025-10-12 | 51 | 62 | 26 | 0 | 0 | 430 |
-| last720d | 2024-10-17 | 51 | 62 | 26 | 0 | 0 | 450 |
+| 30d | 2026-09-08 | 9 | 10 | 14 | 0 | 0 | 118 |
+| last60d | 2026-08-09 | 19 | 19 | 17 | 0 | 0 | 202 |
+| 90d | 2026-07-10 | 26 | 26 | 18 | 0 | 0 | 236 |
+| last180d | 2026-04-11 | 51 | 59 | 24 | 0 | 0 | 377 |
+| 360d | 2025-10-13 | 53 | 63 | 26 | 0 | 0 | 457 |
+| last720d | 2024-10-18 | 53 | 63 | 26 | 0 | 0 | 481 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [ant_1.38.0_checksums.txt](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_checksums.txt) | 2.2 KiB | `other` |
-| [ant_1.38.0_linux_386.apk](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_linux_386.apk) | 9.5 MiB | `other` |
-| [ant_1.38.0_linux_386.deb](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_linux_386.deb) | 9.2 MiB | `other` |
-| [ant_1.38.0_linux_386.pkg.tar.zst](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_linux_386.pkg.tar.zst) | 8.7 MiB | `other` |
-| [ant_1.38.0_linux_386.rpm](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_linux_386.rpm) | 9.2 MiB | `other` |
-| [ant_1.38.0_linux_386.tar.gz](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_linux_386.tar.gz) | 9.2 MiB | `native/unknown` |
-| [ant_1.38.0_linux_amd64.apk](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_linux_amd64.apk) | 10.1 MiB | `native/linux/x64` |
-| [ant_1.38.0_linux_amd64.deb](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_linux_amd64.deb) | 9.7 MiB | `native/linux/x64` |
-| [ant_1.38.0_linux_amd64.pkg.tar.zst](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_linux_amd64.pkg.tar.zst) | 9.3 MiB | `native/linux/x64` |
-| [ant_1.38.0_linux_amd64.rpm](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_linux_amd64.rpm) | 9.7 MiB | `native/linux/x64` |
-| [ant_1.38.0_linux_amd64.tar.gz](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_linux_amd64.tar.gz) | 9.7 MiB | `native/linux/x64` |
-| [ant_1.38.0_linux_arm64.apk](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_linux_arm64.apk) | 9.3 MiB | `native/linux/arm64` |
-| [ant_1.38.0_linux_arm64.deb](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_linux_arm64.deb) | 9.0 MiB | `native/linux/arm64` |
-| [ant_1.38.0_linux_arm64.pkg.tar.zst](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_linux_arm64.pkg.tar.zst) | 8.6 MiB | `native/linux/arm64` |
-| [ant_1.38.0_linux_arm64.rpm](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_linux_arm64.rpm) | 9.0 MiB | `native/linux/arm64` |
-| [ant_1.38.0_linux_arm64.tar.gz](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_linux_arm64.tar.gz) | 9.0 MiB | `native/linux/arm64` |
-| [ant_1.38.0_linux_armv6.apk](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_linux_armv6.apk) | 9.5 MiB | `native/linux/arm` |
-| [ant_1.38.0_linux_armv6.deb](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_linux_armv6.deb) | 9.1 MiB | `native/linux/arm` |
-| [ant_1.38.0_linux_armv6.rpm](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_linux_armv6.rpm) | 9.1 MiB | `native/linux/arm` |
-| [ant_1.38.0_linux_armv6.tar.gz](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_linux_armv6.tar.gz) | 9.1 MiB | `native/linux/arm` |
-| [ant_1.38.0_macos_amd64.zip](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_macos_amd64.zip) | 10.2 MiB | `native/darwin/x64` |
-| [ant_1.38.0_macos_arm64.zip](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_macos_arm64.zip) | 9.5 MiB | `native/darwin/arm64` |
-| [ant_1.38.0_windows_386.zip](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_windows_386.zip) | 9.5 MiB | `native/win/x64` |
-| [ant_1.38.0_windows_amd64.zip](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_windows_amd64.zip) | 10.0 MiB | `native/win/x64` |
-| [ant_1.38.0_windows_arm64.zip](https://github.com/anthropics/anthropic-cli/releases/download/v1.38.0/ant_1.38.0_windows_arm64.zip) | 9.1 MiB | `native/win/arm64` |
+| [ant_1.39.1_checksums.txt](https://github.com/anthropics/anthropic-cli/releases/download/v1.39.1/ant_1.39.1_checksums.txt) | 2.2 KiB | `other` |
+| [ant_1.39.1_linux_386.apk](https://github.com/anthropics/anthropic-cli/releases/download/v1.39.1/ant_1.39.1_linux_386.apk) | 9.8 MiB | `other` |
+| [ant_1.39.1_linux_386.deb](https://github.com/anthropics/anthropic-cli/releases/download/v1.39.1/ant_1.39.1_linux_386.deb) | 9.4 MiB | `other` |
+| [ant_1.39.1_linux_386.pkg.tar.zst](https://github.com/anthropics/anthropic-cli/releases/download/v1.39.1/ant_1.39.1_linux_386.pkg.tar.zst) | 8.9 MiB | `other` |
+| [ant_1.39.1_linux_386.rpm](https://github.com/anthropics/anthropic-cli/releases/download/v1.39.1/ant_1.39.1_linux_386.rpm) | 9.4 MiB | `other` |
+| [ant_1.39.1_linux_386.tar.gz](https://github.com/anthropics/anthropic-cli/releases/download/v1.39.1/ant_1.39.1_linux_386.tar.gz) | 9.4 MiB | `native/unknown` |
+| [ant_1.39.1_linux_amd64.apk](https://github.com/anthropics/anthropic-cli/releases/download/v1.39.1/ant_1.39.1_linux_amd64.apk) | 10.4 MiB | `native/linux/x64` |
+| [ant_1.39.1_linux_amd64.deb](https://github.com/anthropics/anthropic-cli/releases/download/v1.39.1/ant_1.39.1_linux_amd64.deb) | 9.9 MiB | `native/linux/x64` |
+| [ant_1.39.1_linux_amd64.pkg.tar.zst](https://github.com/anthropics/anthropic-cli/releases/download/v1.39.1/ant_1.39.1_linux_amd64.pkg.tar.zst) | 9.4 MiB | `native/linux/x64` |
+| [ant_1.39.1_linux_amd64.rpm](https://github.com/anthropics/anthropic-cli/releases/download/v1.39.1/ant_1.39.1_linux_amd64.rpm) | 9.9 MiB | `native/linux/x64` |
+| [ant_1.39.1_linux_amd64.tar.gz](https://github.com/anthropics/anthropic-cli/releases/download/v1.39.1/ant_1.39.1_linux_amd64.tar.gz) | 9.9 MiB | `native/linux/x64` |
+| [ant_1.39.1_linux_arm64.apk](https://github.com/anthropics/anthropic-cli/releases/download/v1.39.1/ant_1.39.1_linux_arm64.apk) | 9.6 MiB | `native/linux/arm64` |
+| [ant_1.39.1_linux_arm64.deb](https://github.com/anthropics/anthropic-cli/releases/download/v1.39.1/ant_1.39.1_linux_arm64.deb) | 9.2 MiB | `native/linux/arm64` |
+| [ant_1.39.1_linux_arm64.pkg.tar.zst](https://github.com/anthropics/anthropic-cli/releases/download/v1.39.1/ant_1.39.1_linux_arm64.pkg.tar.zst) | 8.7 MiB | `native/linux/arm64` |
+| [ant_1.39.1_linux_arm64.rpm](https://github.com/anthropics/anthropic-cli/releases/download/v1.39.1/ant_1.39.1_linux_arm64.rpm) | 9.2 MiB | `native/linux/arm64` |
+| [ant_1.39.1_linux_arm64.tar.gz](https://github.com/anthropics/anthropic-cli/releases/download/v1.39.1/ant_1.39.1_linux_arm64.tar.gz) | 9.2 MiB | `native/linux/arm64` |
+| [ant_1.39.1_linux_armv6.apk](https://github.com/anthropics/anthropic-cli/releases/download/v1.39.1/ant_1.39.1_linux_armv6.apk) | 9.7 MiB | `native/linux/arm` |
+| [ant_1.39.1_linux_armv6.deb](https://github.com/anthropics/anthropic-cli/releases/download/v1.39.1/ant_1.39.1_linux_armv6.deb) | 9.3 MiB | `native/linux/arm` |
+| [ant_1.39.1_linux_armv6.rpm](https://github.com/anthropics/anthropic-cli/releases/download/v1.39.1/ant_1.39.1_linux_armv6.rpm) | 9.3 MiB | `native/linux/arm` |
+| [ant_1.39.1_linux_armv6.tar.gz](https://github.com/anthropics/anthropic-cli/releases/download/v1.39.1/ant_1.39.1_linux_armv6.tar.gz) | 9.3 MiB | `native/linux/arm` |
+| [ant_1.39.1_macos_amd64.zip](https://github.com/anthropics/anthropic-cli/releases/download/v1.39.1/ant_1.39.1_macos_amd64.zip) | 10.4 MiB | `native/darwin/x64` |
+| [ant_1.39.1_macos_arm64.zip](https://github.com/anthropics/anthropic-cli/releases/download/v1.39.1/ant_1.39.1_macos_arm64.zip) | 9.7 MiB | `native/darwin/arm64` |
+| [ant_1.39.1_windows_386.zip](https://github.com/anthropics/anthropic-cli/releases/download/v1.39.1/ant_1.39.1_windows_386.zip) | 9.7 MiB | `native/win/x64` |
+| [ant_1.39.1_windows_amd64.zip](https://github.com/anthropics/anthropic-cli/releases/download/v1.39.1/ant_1.39.1_windows_amd64.zip) | 10.2 MiB | `native/win/x64` |
+| [ant_1.39.1_windows_arm64.zip](https://github.com/anthropics/anthropic-cli/releases/download/v1.39.1/ant_1.39.1_windows_arm64.zip) | 9.3 MiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -94,4 +94,4 @@ Install metadata for anthropic-cli lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T07:12:32Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T07:27:15Z._
