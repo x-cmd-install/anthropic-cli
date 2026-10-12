@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2262,
       "digest": "sha256:3f0fdde4a1f9edb3a7d8cab14bb470b4a30446a11afa205349fb1b09402bae42",
-      "download_count": 158,
+      "download_count": 225,
       "created_at": "2026-10-09T15:57:56Z",
       "updated_at": "2026-10-09T15:57:57Z",
       "browser_download_url": "https://github.com/anthropics/anthropic-cli/releases/download/v1.40.0/ant_1.40.0_checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 10289431,
       "digest": "sha256:58626bc01b72dcad78a4e1765a0404d7b03f3be5c25464c64252c77272c000ee",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-10-09T15:57:52Z",
       "updated_at": "2026-10-09T15:57:53Z",
       "browser_download_url": "https://github.com/anthropics/anthropic-cli/releases/download/v1.40.0/ant_1.40.0_linux_386.apk"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 9891132,
       "digest": "sha256:b29a1c7292c369d7a9ddd5f1ced4d73a07395066fa9775cb0abadebd61542e1b",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-10-09T15:57:53Z",
       "updated_at": "2026-10-09T15:57:53Z",
       "browser_download_url": "https://github.com/anthropics/anthropic-cli/releases/download/v1.40.0/ant_1.40.0_linux_386.deb"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 9382654,
       "digest": "sha256:1a02999c5caa86b655f14ee636d61d7ae086d2628a089e0a0803654a70f8ca9e",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-10-09T15:57:55Z",
       "updated_at": "2026-10-09T15:57:56Z",
       "browser_download_url": "https://github.com/anthropics/anthropic-cli/releases/download/v1.40.0/ant_1.40.0_linux_386.pkg.tar.zst"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 9893956,
       "digest": "sha256:5feff29ba2f105a4644562123a8aad807d095f9b06168e46e5d02ede613e9b6d",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-10-09T15:57:55Z",
       "updated_at": "2026-10-09T15:57:56Z",
       "browser_download_url": "https://github.com/anthropics/anthropic-cli/releases/download/v1.40.0/ant_1.40.0_linux_386.rpm"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 9893033,
       "digest": "sha256:0ede46c2ad31c9ecf9d64cdb7e0c59aa2b5f799a69ee4d56923d569927766769",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-10-09T15:57:49Z",
       "updated_at": "2026-10-09T15:57:50Z",
       "browser_download_url": "https://github.com/anthropics/anthropic-cli/releases/download/v1.40.0/ant_1.40.0_linux_386.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 10912162,
       "digest": "sha256:481073c1d5ca21275bca4def7591bcc7223532bfe442f5f45003364638146cdd",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-10-09T15:57:52Z",
       "updated_at": "2026-10-09T15:57:52Z",
       "browser_download_url": "https://github.com/anthropics/anthropic-cli/releases/download/v1.40.0/ant_1.40.0_linux_amd64.apk"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 10446640,
       "digest": "sha256:1e831e2c8151f2460695aaa620e40323dbe96b5b303d77ff80cf9ab1247af5e1",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-10-09T15:57:54Z",
       "updated_at": "2026-10-09T15:57:55Z",
       "browser_download_url": "https://github.com/anthropics/anthropic-cli/releases/download/v1.40.0/ant_1.40.0_linux_amd64.deb"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 9976332,
       "digest": "sha256:53e494d86a4e1a51c410b57ef9b0da5c68881240781fdbff5decc88cb67c24cb",
-      "download_count": 10,
+      "download_count": 12,
       "created_at": "2026-10-09T15:57:54Z",
       "updated_at": "2026-10-09T15:57:55Z",
       "browser_download_url": "https://github.com/anthropics/anthropic-cli/releases/download/v1.40.0/ant_1.40.0_linux_amd64.pkg.tar.zst"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 10455322,
       "digest": "sha256:76ec55d36451c7dfd30413a2f09fc987f22bc0fd5d5687276852cf371f49451e",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-10-09T15:57:54Z",
       "updated_at": "2026-10-09T15:57:55Z",
       "browser_download_url": "https://github.com/anthropics/anthropic-cli/releases/download/v1.40.0/ant_1.40.0_linux_amd64.rpm"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 10453152,
       "digest": "sha256:9845b2a2d44ff3204b3fdaebb64c9da8e7558ad6b9b4547ce4c0eda36dea6e8f",
-      "download_count": 222,
+      "download_count": 357,
       "created_at": "2026-10-09T15:57:49Z",
       "updated_at": "2026-10-09T15:57:50Z",
       "browser_download_url": "https://github.com/anthropics/anthropic-cli/releases/download/v1.40.0/ant_1.40.0_linux_amd64.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 10098261,
       "digest": "sha256:b7621177fd73df13c5a84ac94d8861f1d2efa110a71e2b3cdbd714a5667e1c0e",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-10-09T15:57:51Z",
       "updated_at": "2026-10-09T15:57:52Z",
       "browser_download_url": "https://github.com/anthropics/anthropic-cli/releases/download/v1.40.0/ant_1.40.0_linux_arm64.apk"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 9726866,
       "digest": "sha256:62ad54abfde18b10b75c09f783247708e9bed5c5f86df441f499add7f3e89381",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-10-09T15:57:53Z",
       "updated_at": "2026-10-09T15:57:53Z",
       "browser_download_url": "https://github.com/anthropics/anthropic-cli/releases/download/v1.40.0/ant_1.40.0_linux_arm64.deb"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 9235218,
       "digest": "sha256:a90aaba78c3c67db7d5cc07f247c051121a992e1cb6b7f14229e4765d8a0f30e",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-10-09T15:57:55Z",
       "updated_at": "2026-10-09T15:57:56Z",
       "browser_download_url": "https://github.com/anthropics/anthropic-cli/releases/download/v1.40.0/ant_1.40.0_linux_arm64.pkg.tar.zst"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 9717478,
       "digest": "sha256:77acddb817faa7ecc13c656bf682808b344b42655c3fa2799e67e5b14791638c",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-10-09T15:57:54Z",
       "updated_at": "2026-10-09T15:57:54Z",
       "browser_download_url": "https://github.com/anthropics/anthropic-cli/releases/download/v1.40.0/ant_1.40.0_linux_arm64.rpm"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 9730357,
       "digest": "sha256:37a92e5b405ca85d1794c60c9f97c2ed085c40ee4833293215f9513cc4715e85",
-      "download_count": 21,
+      "download_count": 61,
       "created_at": "2026-10-09T15:57:49Z",
       "updated_at": "2026-10-09T15:57:50Z",
       "browser_download_url": "https://github.com/anthropics/anthropic-cli/releases/download/v1.40.0/ant_1.40.0_linux_arm64.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 10196707,
       "digest": "sha256:9dcb9f3398f1e86bc55f018fec2356dd2fb34c7f87153b0fee0dc34aea3ea12b",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-10-09T15:57:51Z",
       "updated_at": "2026-10-09T15:57:52Z",
       "browser_download_url": "https://github.com/anthropics/anthropic-cli/releases/download/v1.40.0/ant_1.40.0_linux_armv6.apk"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 9844888,
       "digest": "sha256:7a17f19b5b792e10d6a8a70d4f36ae5e72a48453d456a1ea9392e674ed798754",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-10-09T15:57:52Z",
       "updated_at": "2026-10-09T15:57:53Z",
       "browser_download_url": "https://github.com/anthropics/anthropic-cli/releases/download/v1.40.0/ant_1.40.0_linux_armv6.deb"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 9826869,
       "digest": "sha256:51e390d141820c33af2ac33df96e07f0bdb9bf1cb9b747bc114a7f80b00ddb52",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-10-09T15:57:56Z",
       "updated_at": "2026-10-09T15:57:57Z",
       "browser_download_url": "https://github.com/anthropics/anthropic-cli/releases/download/v1.40.0/ant_1.40.0_linux_armv6.rpm"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 9845483,
       "digest": "sha256:7bf9b428eaab0fe56f1185782b4447b4e298f684b8572c9381442a68fc37de4f",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-10-09T15:57:49Z",
       "updated_at": "2026-10-09T15:57:50Z",
       "browser_download_url": "https://github.com/anthropics/anthropic-cli/releases/download/v1.40.0/ant_1.40.0_linux_armv6.tar.gz"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 11011256,
       "digest": "sha256:09fd48eb9919775482cde0973b453dd45a791416047c4bafa0f80f79021cb0c0",
-      "download_count": 23,
+      "download_count": 34,
       "created_at": "2026-10-09T15:57:50Z",
       "updated_at": "2026-10-09T15:57:51Z",
       "browser_download_url": "https://github.com/anthropics/anthropic-cli/releases/download/v1.40.0/ant_1.40.0_macos_amd64.zip"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 10279413,
       "digest": "sha256:ed24efbb6355888666a01fddec26f7d63b139370319bc258c50c0f5cd53492b3",
-      "download_count": 813,
+      "download_count": 1180,
       "created_at": "2026-10-09T15:57:50Z",
       "updated_at": "2026-10-09T15:57:51Z",
       "browser_download_url": "https://github.com/anthropics/anthropic-cli/releases/download/v1.40.0/ant_1.40.0_macos_arm64.zip"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 10286483,
       "digest": "sha256:e3ff3130aec660ed23d3afea89135940952cadebba52befad256f56dfbbc7354",
-      "download_count": 43,
+      "download_count": 56,
       "created_at": "2026-10-09T15:57:50Z",
       "updated_at": "2026-10-09T15:57:51Z",
       "browser_download_url": "https://github.com/anthropics/anthropic-cli/releases/download/v1.40.0/ant_1.40.0_windows_386.zip"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 10752265,
       "digest": "sha256:a081816a932d54c7796c5b43de300367b75cf943cc8753aea05130cd2f7015e3",
-      "download_count": 157,
+      "download_count": 242,
       "created_at": "2026-10-09T15:57:51Z",
       "updated_at": "2026-10-09T15:57:52Z",
       "browser_download_url": "https://github.com/anthropics/anthropic-cli/releases/download/v1.40.0/ant_1.40.0_windows_amd64.zip"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 9833597,
       "digest": "sha256:d8f2365856c45a56a38e4cb0370f5ae3d7c4df01402aef527894be08effaff7d",
-      "download_count": 26,
+      "download_count": 35,
       "created_at": "2026-10-09T15:57:50Z",
       "updated_at": "2026-10-09T15:57:51Z",
       "browser_download_url": "https://github.com/anthropics/anthropic-cli/releases/download/v1.40.0/ant_1.40.0_windows_arm64.zip"
