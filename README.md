@@ -38,7 +38,7 @@ Total: **68,381** lines of code across **374** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 682 · **Forks**: 112 · **Open issues**: 0 · **Contributors**: 25
+- **Stars**: 684 · **Forks**: 112 · **Open issues**: 0 · **Contributors**: 25
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **68,381** lines of code across **374** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 10 | 6 | 4 | 0 | 0 | 134 |
-| last60d | 2026-08-17 | 21 | 18 | 7 | 0 | 0 | 233 |
-| 90d | 2026-07-18 | 27 | 25 | 8 | 0 | 0 | 275 |
-| last180d | 2026-04-19 | 52 | 55 | 13 | 0 | 0 | 403 |
-| 360d | 2025-10-21 | 56 | 64 | 15 | 0 | 0 | 503 |
-| last720d | 2024-10-26 | 56 | 64 | 15 | 0 | 0 | 536 |
+| 30d | 2026-09-17 | 10 | 6 | 4 | 0 | 0 | 134 |
+| last60d | 2026-08-18 | 21 | 18 | 7 | 0 | 0 | 233 |
+| 90d | 2026-07-19 | 27 | 25 | 8 | 0 | 0 | 275 |
+| last180d | 2026-04-20 | 52 | 55 | 13 | 0 | 0 | 403 |
+| 360d | 2025-10-22 | 56 | 64 | 15 | 0 | 0 | 503 |
+| last720d | 2024-10-27 | 56 | 64 | 15 | 0 | 0 | 536 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for anthropic-cli lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T05:45:34Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T05:28:38Z._
