@@ -38,22 +38,22 @@ Total: **68,381** lines of code across **374** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 687 · **Forks**: 112 · **Open issues**: 0 · **Contributors**: 25
+- **Stars**: 687 · **Forks**: 116 · **Open issues**: 0 · **Contributors**: 25
 
 ## Totals (cumulative)
 
-- **Releases**: 56 · **Merged PRs**: 64 · **Open PRs**: 15 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 536
+- **Releases**: 56 · **Merged PRs**: 64 · **Open PRs**: 16 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 536
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 10 | 5 | 4 | 0 | 0 | 134 |
-| last60d | 2026-08-19 | 21 | 15 | 5 | 0 | 0 | 233 |
-| 90d | 2026-07-20 | 27 | 25 | 8 | 0 | 0 | 275 |
-| last180d | 2026-04-21 | 52 | 54 | 13 | 0 | 0 | 403 |
-| 360d | 2025-10-23 | 56 | 64 | 15 | 0 | 0 | 503 |
-| last720d | 2024-10-28 | 56 | 64 | 15 | 0 | 0 | 536 |
+| 30d | 2026-09-19 | 9 | 5 | 5 | 0 | 0 | 108 |
+| last60d | 2026-08-20 | 17 | 14 | 6 | 0 | 0 | 213 |
+| 90d | 2026-07-21 | 27 | 24 | 9 | 0 | 0 | 260 |
+| last180d | 2026-04-22 | 52 | 54 | 14 | 0 | 0 | 388 |
+| 360d | 2025-10-24 | 56 | 64 | 16 | 0 | 0 | 503 |
+| last720d | 2024-10-29 | 56 | 64 | 16 | 0 | 0 | 536 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for anthropic-cli lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T05:36:53Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T05:50:23Z._
